@@ -1,0 +1,15 @@
+# folders
+
+./data/
+./info/
+./output/
+./r/
+./vilson/
+./qgis/
+
+# ./py/ folder files
+
+./py/main.ipynb
+./py/main.py
+./py/misc.ipynb
+./py/sme.py
